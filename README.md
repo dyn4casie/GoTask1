@@ -1,0 +1,1 @@
+Create a program called dectobin which means Decimal to Binary, the program should accept input from the command line, the input must be of type int. The program should immediately print out the binary representation of the value input by the user. Push your code to GitHub, and submit the link via HNG board.
